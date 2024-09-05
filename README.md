@@ -1,6 +1,6 @@
 # Sea Level Rise Analysis
 
-## This project analyzes sea level changes over time using data from the epa-sea-level.csv dataset. It generates a plot showing the trend of sea level rise with two lines of best fit: one for the entire dataset and another focusing on recent years.
+This project analyzes sea level changes over time using data from the epa-sea-level.csv dataset. It generates a plot showing the trend of sea level rise with two lines of best fit: one for the entire dataset and another focusing on recent years.
 
 ## Project Overview
 The project involves:
